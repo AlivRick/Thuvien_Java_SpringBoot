@@ -76,7 +76,8 @@ Once the backend server is running, navigate to `http://localhost:8080` in your 
 ![z5944806690874_cf44348cca191b048337e3b4f3d3a4e4](https://github.com/user-attachments/assets/e42bddd1-0b70-42f4-851e-9c55d17086ab)
 ![z5944808480859_0fd76a138c4e76409a459a3cde68684c](https://github.com/user-attachments/assets/391fea4a-3832-4a35-9efc-95e3c5ffb2f5)
 ![z5944809857253_bee24f6b0450006a46d0ed930beb2e56](https://github.com/user-attachments/assets/ccd43ef4-96f7-4ba2-b407-045ed579ad90)
-
+- **SMTP Email:**
+<img width="960" alt="smtp" src="https://github.com/user-attachments/assets/d256383c-9f7b-4b2f-858a-7e3b079b7607">
 
 ---
 
