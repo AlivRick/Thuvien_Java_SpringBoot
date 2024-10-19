@@ -50,31 +50,41 @@ Once the backend server is running, navigate to `http://localhost:8080` in your 
 
 - **Homepage:**
 
-  ![Homepage](uploads/1.png)
+  ![Homepage](https://github.com/user-attachments/assets/a19c7856-f9cc-4a56-a8df-cab2f86f86a9)
+
 
 - **Book Search:**
 
-  ![Book Search](uploads/2.png)
+  ![Book Search](https://github.com/user-attachments/assets/c1a38e48-ef7c-4e92-b40d-276fd7f08a52)
+
 
 - **Borrow Book:**
 
-  ![Borrow Book](uploads/3.png)
+  ![Borrow Book](https://github.com/user-attachments/assets/ba24575e-5249-4df6-9782-0bcf7d769919)
+
 
 - **User Profile:**
 
-  ![User Profile](uploads/4.png)
+  ![User Profile](https://github.com/user-attachments/assets/31c6b1fd-fc56-48d9-95dc-ddca0ad61fa6)
+
 
 - **Admin Dashboard:**
 
-  ![Admin Dashboard](uploads/5.png)
+  ![Admin Dashboard](https://github.com/user-attachments/assets/ea02230c-f2aa-4348-a894-4905b35bba59)
+- **Payment online:**
+
+![z5944806690874_cf44348cca191b048337e3b4f3d3a4e4](https://github.com/user-attachments/assets/e42bddd1-0b70-42f4-851e-9c55d17086ab)
+![z5944808480859_0fd76a138c4e76409a459a3cde68684c](https://github.com/user-attachments/assets/391fea4a-3832-4a35-9efc-95e3c5ffb2f5)
+![z5944809857253_bee24f6b0450006a46d0ed930beb2e56](https://github.com/user-attachments/assets/ccd43ef4-96f7-4ba2-b407-045ed579ad90)
+
 
 ---
 
 ## Credits
 
-- **[Your Name]** - Fullstack Developer
-- **[Team Member 1]** - Backend Developer
-- **[Team Member 2]** - Frontend Developer
+- **[Hoàng Châu Phúc Thuận]** - Fullstack Developer
+- **[Trần Hoài Nam]** - Fullstack Developer
+- **[Nguyễn Quốc Cường]** - Frontend Developer
 
 ---
 
